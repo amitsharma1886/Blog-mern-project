@@ -9,8 +9,8 @@
 5. cd server
 6. npm install
 
-7. Install frontend dependencies:
-8. cd ../client
+7. Install frontend dependencies
+9. cd ../client
 9.npm install
 
 10. Create .env file in server/ with:
